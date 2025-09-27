@@ -12,8 +12,8 @@ If you have a proof you want to add just clone the repo yourself and write it up
 
 - 'lhs': Left hand side of equation
 - 'rhs': Right hand side of equation
-- '$F$': Shorthand for `false` (looks more neat)
-- '$T$': Shorthand for `true`  (looks more neat)
+- 'F': Shorthand for `false` (looks more neat)
+- 'T': Shorthand for `true`  (looks more neat)
 
 - The github app doesn't render math markdown or markdown.
 
