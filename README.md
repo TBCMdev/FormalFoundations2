@@ -23,7 +23,7 @@ For VSC, I use [gtfish08's](https://marketplace.visualstudio.com/items?itemName=
 
 Example:
 
-![theme_example](https://github.com/TBCMdev/FormalFoundations2/blob/main/theme_example.jpg?raw=true)
+![theme_example](https://github.com/TBCMdev/FormalFoundations2/blob/main/theme_example.png?raw=true)
 
 ## Mistakes & Better Solutions
 
