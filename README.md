@@ -1,7 +1,7 @@
 # Formal Foundations 2 Proofs - UCD Computer Science (Stage 2)
 
 Here is most of the proofs for Formal Foundations 2 we've been asked to prove.
-
+> Github doesn't render these correctly! Use an IDE
 > Some proofs are not here as the proof after demonstrates a similar method, or I was too lazy (like 60).
 
 ## Contributing
